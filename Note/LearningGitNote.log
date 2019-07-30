@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.14)  29 JUL 2019 15:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.14)  31 JUL 2019 01:57
 entering extended mode
 **./LearningGitNote.tex
 (LearningGitNote.tex
@@ -521,23 +521,28 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 10.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Underfull \hbox (badness 10000) in paragraph at lines 29--38
 
-{C:/Users/Bohr/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (LearningGit
-Note.aux) ) 
+ []
+
+[1
+
+{C:/Users/Bohr/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(LearningGitNote.aux) ) 
 Here is how much of TeX's memory you used:
  2629 strings out of 493308
- 32990 string characters out of 3138771
- 90220 words of memory out of 3000000
+ 33022 string characters out of 3138771
+ 91220 words of memory out of 3000000
  6141 multiletter control sequences out of 15000+200000
  9189 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,25p,284b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on LearningGitNote.pdf (1 page, 47887 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on LearningGitNote.pdf (1 page, 50900 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
